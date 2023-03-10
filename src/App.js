@@ -15,6 +15,7 @@ function App() {
     <div className="App font-link">
       <Header />
       <OptionDisplay />
+      <MainDisplay />
     </div>
   );
 }
